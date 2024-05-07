@@ -1,6 +1,6 @@
 # Matthew Doyle
 
-![Profile Pic](https://avatars.githubusercontent.com/u/128827327?s=400&u=ad58e5d0047cdc9481a002500246bfe7cb0ba06a&v=4)
+![Profile Pic](<img src="https://avatars.githubusercontent.com/u/128827327?s=400&u=ad58e5d0047cdc9481a002500246bfe7cb0ba06a&v=4" alt="Profile Pic" style="border-radius: 50%;" width="200" height="200">)
 
 📍 London, UK | ☎️ 07916118880 | ✉️ doyle9214@gmail.com | 💼 [www.linkedin.com/in/mattdoyle92](http://www.linkedin.com/in/mattdoyle92) | 💻 [github.com/pirateking92](http://github.com/pirateking92)
 
