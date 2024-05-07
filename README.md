@@ -8,7 +8,7 @@ Passionate **Junior Software Developer** with a diverse background spanning educ
 
 ## 🛠️ Technical Skills
 
-- **Languages:** `GoLang`, `Python`, `Swift`, `SQL`, `JavaScript`, `React.js`
+- **Languages:** `GoLang`, `Python`, `Swift`, `SvelteKit`, `SQL`, `TypeScript`, `JavaScript`, `React.js`
 - **Methodologies:** `Test Driven Development (TDD)`, `Pair Programming`, `Agile methodology`
 - **Other Skills:** Public Speaking/Presenting, Stakeholder Management
 
