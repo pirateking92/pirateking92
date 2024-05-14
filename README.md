@@ -15,7 +15,7 @@ Passionate **Junior Software Developer** with a diverse background spanning educ
 ## 💻 Projects
 
 ### Cassandra
-
+- [https://cassandratarot.onrender.com]
 - A Tarot Card Reading web app
 - Deals 3 random cards from a 78 card deck, provide an explanation for each, and give an AI powered reading based on the draw
 - [https://github.com/pirateking92/teamtarot](https://github.com/pirateking92/teamtarot)
