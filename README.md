@@ -16,32 +16,30 @@ Passionate **Junior Software Developer** with a diverse background spanning educ
 
 ### Cassandra
 
-- [https://cassandratarot.onrender.com]
-- A Tarot Card Reading web app
-- Deals 3 random cards from a 78 card deck, provide an explanation for each, and give an AI powered reading based on the draw
-- 83% test coverage.
-- Implemented a new frontend that was learned in week 1 of 2.
-- Leveraged the use of an AI API with a separate API for the first time successfully.
-- (https://github.com/pirateking92/teamtarot)
-- **Tech Stack:** `Go` (Backend), `Gin Framework`, `SvelteKit` (Frontend), `CSS` Styling
+- [Cassandra Tarot](https://cassandratarot.onrender.com)
+- A Tarot Card Reading web app that deals 3 random cards from a 78 card deck, provides an explanation for each, and gives an AI-powered reading based on the draw
+- Achieved 83% test coverage
+- Implemented a new frontend within the first week of learning SvelteKit
+- Successfully integrated an AI API for the first time
+- **Tech Stack:** `Go` (Backend), `Gin Framework`, `SvelteKit` (Frontend), `CSS`
+- [GitHub Repository](https://github.com/pirateking92/teamtarot)
 
 ### Capybook
 
 - Developed a Capybara-themed Facebook clone with a diverse backend and frontend team, simulating a real-world work environment
-- **Implemented key social media features** using `Go`, `Gin framework`, and `React.js`
+- Implemented key social media features using `Go`, `Gin framework`, and `React.js`
 - Collaborated effectively with team members to deliver a functional and visually appealing application
-- (**First experience as a pure backend developer supporting the frontend, representing a truer work experience**
-- (https://github.com/pirateking92/capybara_project)
 - **Tech Stack:** `Go`, `Gin framework`, `React.js`, `CSS`
+- [GitHub Repository](https://github.com/pirateking92/capybara_project)
 
 ### Satellite 
 
-- Space themed social media Swift app
-- Learned the necessary amount of SwiftUI in a week and on the go and developed a working, attractive application at the same time.
-- Developed strong pair programming skills, with both remote and onsite colleagues, efficiency with SwiftUI as well as further developing strong statically typed language experience
+- Space-themed social media Swift app
+- Learned and applied SwiftUI within a week, developing a working and attractive application
+- Developed strong pair programming skills with both remote and onsite colleagues
 - Improved debugging skills through use of playgrounds and effectively researching error messages
-- (https://github.com/pirateking92/satellite-swift-project-frontend)
 - **Tech Stack:** `SwiftUI`, `CSS`
+- [GitHub Repository](https://github.com/pirateking92/satellite-swift-project-frontend)
 
 ## 💼 Experience
 
@@ -61,9 +59,9 @@ _Tokyo, Japan_
 
 **Consultant** _(Sept 2022 – Oct 2023)_
 
-- Led daily client meetings and coordinated interactions with diverse candidates from various industries and functions.
-- Utilised strong communication, negotiation, and stakeholder management abilities to engage effectively with numerous prominent clients.
-- Showcased exceptional attention to detail and organisational expertise by managing multiple candidates and clients in diverse technical sectors.
+- Led daily client meetings and coordinated interactions with diverse candidates from various industries and functions
+- Utilised strong communication, negotiation, and stakeholder management abilities to engage effectively with numerous prominent clients
+- Showcased exceptional attention to detail and organisational expertise by managing multiple candidates and clients in diverse technical sectors
 
 ### Teaching Career
 
@@ -85,6 +83,14 @@ _Busan, South Korea_
 
 **Guest English Teacher** _(September 2015 - Feb 2017)_
 
+## 🏆 Achievements
+
+### Harmony Hackathon
+
+_London, UK_
+
+- Placed first by implementing multilingual support (Italian, German, Spanish, French) to an existing codebase for a research application that vectorizes the similarity between items in mental health questionnaires
+
 ## 📚 Education & Other
 
 - **University of York:** MA Applied Linguistics for Language Teaching _(2020)_
@@ -95,3 +101,4 @@ _Busan, South Korea_
 ## 🎯 Interests
 
 🏋️‍♂️ Weightlifting | 🏃‍♂️ Running | 🏀 Basketball | ⛷️ Snowboarding | 🥾 Hiking | 🎥 Avid Film Enthusiast and Music Lover
+```
