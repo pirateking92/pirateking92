@@ -41,6 +41,14 @@ Passionate **Junior Software Developer** with a diverse background spanning educ
 - **Tech Stack:** `SwiftUI`, `CSS`
 - [GitHub Repository](https://github.com/pirateking92/satellite-swift-project-frontend)
 
+### Girraphic Task
+
+- [Girraphic Task](https://github.com/pirateking92/girraphicTask)
+- A JSON parsing marathon web app built with TypeScript and Next.js
+- Parses JSON data into an easily readable format that can be sorted by athlete rank and bib number
+- Exports the resulting order as a CSV file
+- **Tech Stack:** `TypeScript`, `Next.js`, `Express`, `Tailwind CSS`, `Flowbite`, `Jest`
+
 ## 💼 Experience
 
 ### Makers
