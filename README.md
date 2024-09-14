@@ -1,112 +1,111 @@
-# Matthew Doyle
+# Matthew Doyle 🚀
 
-📍 London, UK | ☎️ 07916118880 | ✉️ doyle9214@gmail.com | 💼 [www.linkedin.com/in/mattdoyle92](http://www.linkedin.com/in/mattdoyle92) | 💻 [github.com/pirateking92](http://github.com/pirateking92)
+📍 London, UK | 📞 07916118880 | 📧 doyle9214@gmail.com | [LinkedIn](https://www.linkedin.com/in/mattdoyle92/) | [GitHub](https://github.com/pirateking92/pirateking92) | [Portfolio](https://mattdoyle.vercel.app/)
 
-## 👋 About Me
+## About Me 🌟
 
-Passionate **Junior Software Developer** with a diverse background spanning education, tech retail, and recruitment. Proficient in **test-driven development, object-oriented programming, and full-stack development**, I bring a unique blend of technical expertise and customer-centric skills honed from previous careers. Eager to leverage my problem-solving abilities and communication prowess to develop impactful solutions that meet real-world needs.
+Passionate Software Developer with a strong foundation in test-driven development, object-oriented programming, and full-stack development. I bring a unique blend of technical expertise and customer-centric skills from previous careers in education, tech retail, and recruitment. I am eager to leverage my problem-solving abilities and communication prowess to develop impactful software solutions.
 
-## 🛠️ Technical Skills
+## Learning Now / Learning Next 🧠
 
-- **Languages:** `Go`, `Python`, `Svelte`, `Swift`, `SQL`, `TypeScript`, `JavaScript`, `React.js`
-- **Methodologies:** `Test Driven Development (TDD)`, `Pair Programming`, `Agile methodology`
-- **Other Skills:** Public Speaking/Presenting, Stakeholder Management
+### Currently learning:
+- Vim to enhance usability
+- PHP to work more seamlessly with a WordPress project
+- Improving fundamentals with TypeScript and Python
+- Integrating more use of databases in projects
 
-## 💻 Projects
+### Wanting to next learn/improve:
+- My (really basic) Korean skills 🇰🇷
+- Mouseless navigation
+- Typing speed ⌨️
 
-### Cassandra
+## Technical Skills 💻
 
-- [Cassandra Tarot](https://cassandratarot.onrender.com)
-- A Tarot Card Reading web app that deals 3 random cards from a 78 card deck, provides an explanation for each, and gives an AI-powered reading based on the draw
+- **Languages**: TypeScript, Go, Python, Swift, SQL, JavaScript
+- **Frameworks**: SvelteKit, React.js, Gin, Next.js, Express
+- **Development**: Test Driven Development (TDD), Object-Oriented Programming (OOP), Pair Programming
+- **Methodologies**: Agile, Scrum, Kanban
+- **Tools**: Git, GitHub, Docker, SQL, CSS, Tailwind CSS
+- **Soft Skills**: Public Speaking, Presenting, Stakeholder Management
+
+## Projects 🛠️
+
+### Headless CMS Website - Portfolio website for Theatre Director
+- **Tech Stack**: Wordpress CMS | Frontend: TypeScript, Next.js/React
+- Utilises existing WordPress client, to migrate site data to bespoke frontend
+- Tailwind for styling, leveraging libraries such as Framer and Flowbite
+- Extending WordPress functionality by utilising ACFs (advanced custom fields)
+
+### Cassandra - A Tarot Card Reading web app 🔮
+- **Tech Stack**: Backend: Go, Gin | Frontend: SvelteKit, CSS
+- Deals 3 random cards and gives a ChatGPT-leveraged reading
 - Achieved 83% test coverage
-- Implemented a new frontend within the first week of learning SvelteKit
-- Successfully integrated an AI API for the first time
-- **Tech Stack:** `Go` (Backend), `Gin Framework`, `SvelteKit` (Frontend), `CSS`
-- [GitHub Repository](https://github.com/pirateking92/teamtarot)
+- Learnt new frontend framework (SvelteKit) and implemented it in one week
 
-### Capybook
+### Marathons Parser - Web App for Parsing JSON to CSV 🏃
+- **Tech Stack**: TypeScript, React, Express, Next.js, Tailwind CSS
+- Parses JSON data, sorts results by racer rank or bib number, and exports to CSV
+- Designed for scalability with separated frontend and backend
+- Comprehensive test coverage for both frontend and backend
 
-- Developed a Capybara-themed Facebook clone with a diverse backend and frontend team, simulating a real-world work environment
-- Implemented key social media features using `Go`, `Gin framework`, and `React.js`
-- Collaborated effectively with team members to deliver a functional and visually appealing application
-- **Tech Stack:** `Go`, `Gin framework`, `React.js`, `CSS`
-- [GitHub Repository](https://github.com/pirateking92/capybara_project)
+### Capybook - Social Media Web App 🦫
+- **Tech Stack**: GoLang, Gin Framework, React.js
+- Developed MVP using GoLang for backend and React.js for frontend
+- First experience working as a pure backend developer
+- Engaged in pair programming for cohesive teamwork
 
-### Satellite 
+## Experience 👨‍💼
 
-- Space-themed social media Swift app
-- Learned and applied SwiftUI within a week, developing a working and attractive application
-- Developed strong pair programming skills with both remote and onsite colleagues
-- Improved debugging skills through use of playgrounds and effectively researching error messages
-- **Tech Stack:** `SwiftUI`, `CSS`
-- [GitHub Repository](https://github.com/pirateking92/satellite-swift-project-frontend)
+### Makers, London, UK
+**Junior Software Developer** | Jan 2024 – May 2024
+- Completed a 16-week intensive bootcamp, focusing on Python, GoLang, JavaScript, Git, and Swift
+- Practised test-driven development (TDD) and object-oriented programming
+- Enhanced pair programming skills through regular collaborative exercises
+- Worked in Agile scrum environment to improve, extend, and debug legacy code
 
-### Girraphic Task
+### Specialised Group, Tokyo, Japan
+**Consultant** | Sept 2022 – Oct 2023
+- Led daily client meetings and coordinated interactions with diverse candidates
+- Utilised strong communication, negotiation, and stakeholder management abilities
+- Managed multiple candidates and clients in various technical sectors
 
-- [Girraphic Task](https://github.com/pirateking92/girraphicTask)
-- A JSON parsing marathon web app built with TypeScript and Next.js
-- Parses JSON data into an easily readable format that can be sorted by athlete rank and bib number
-- Exports the resulting order as a CSV file
-- **Tech Stack:** `TypeScript`, `Next.js`, `Express`, `Tailwind CSS`, `Flowbite`, `Jest`
+## Achievements & Volunteering 🏆
 
-## 💼 Experience
+### Harmony Hackathon, London, UK
+**June 2024**
+- Placed first by implementing multilingual support (ITA, GER, SPA, FRA) for a research application, enhancing mental health questionnaire analysis
 
-### Makers
+### Dragon Hall Trust, London, UK
+- Coaching young people at a coding club in Covent Garden, introducing them to basic concepts in coding in a fun way
 
-_London, UK_
+## Teaching Experience 📚
 
-**Junior Software Developer** _(Jan 2024 – May 2024)_
+### Kings Education, Seoul, South Korea
+**Lead Teacher** | July 2020 – August 2022
 
-- Developed fundamental software engineering skills through an intensive **16-week bootcamp**, including in-depth learning of `Python`, `Go`, `JavaScript`, `Git`, and `Swift`. Gained hands-on experience with `test-driven development (TDD)` and `object-oriented programming`
-- Honed `pair programming` skills through regular collaborative exercises
-- Worked in an `Agile scrum` environment to improve, extend, and debug legacy code
+### English Corner Language School, Tokyo, Japan
+**Teacher** | Feb 2017 – June 2019
 
-### Specialised Group
+### EPIK, Busan, South Korea
+**Guest English Teacher** | Sept 2015 – Feb 2017
 
-_Tokyo, Japan_
+## Education 🎓
 
-**Consultant** _(Sept 2022 – Oct 2023)_
+### University of York
+MA Applied Linguistics for Language Teaching, Merit, 2019-2020
 
-- Led daily client meetings and coordinated interactions with diverse candidates from various industries and functions
-- Utilised strong communication, negotiation, and stakeholder management abilities to engage effectively with numerous prominent clients
-- Showcased exceptional attention to detail and organisational expertise by managing multiple candidates and clients in diverse technical sectors
+### Brunel University
+BA English Literature, Film and Television, 2010-2013
 
-### Teaching Career
+## Languages & Interests 🌍
 
-**Kings Education**
-
-_Seoul, South Korea_
-
-**Lead Teacher** _(July 2020 - August 2022)_
-
-**English Corner Language School**
-
-_Tokyo, Japan_
-
-**Teacher** _(Feb 2017 - June 2019)_
-
-**EPIK**
-
-_Busan, South Korea_
-
-**Guest English Teacher** _(September 2015 - Feb 2017)_
-
-## 🏆 Achievements
-
-### Harmony Hackathon
-
-_London, UK_
-
-- Placed first by implementing multilingual support (Italian, German, Spanish, French) to an existing codebase for a research application that vectorizes the similarity between items in mental health questionnaires
-
-## 📚 Education & Other
-
-- **University of York:** MA Applied Linguistics for Language Teaching _(2020)_
-- **Brunel University:** BA English Literature, Film and Television _(2013)_
-- **Languages:** Japanese (Conversational), Korean (Basic)
-- **Other Education:** CELTA
-
-## 🎯 Interests
-
-🏋️‍♂️ Weightlifting | 🏃‍♂️ Running | 🏀 Basketball | ⛷️ Snowboarding | 🥾 Hiking | 🎥 Avid Film Enthusiast and Music Lover
-```
+- **Languages**: Japanese (Conversational), Korean (Basic)
+- **Interests**: 
+  - Weightlifting 🏋️‍♂️
+  - Running (doing the Royal Parks Half Oct. 13th) 🏃‍♂️
+  - Basketball (76ers fan) 🏀
+  - Snowboarding 🏂
+  - Hiking 🥾
+  - Climbing 🧗‍♂️
+  - Avid Film Enthusiast (Bill & Ted is a favourite film) 🎬
+  - Music Lover (Bloc Party a classic favourite band, into Metal and many of its subgenres) 🎸
