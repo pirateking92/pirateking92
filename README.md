@@ -1,111 +1,33 @@
-# Matthew Doyle 🚀
+# Hi, I'm Matt 👋
 
-📍 London, UK | 📞 07916118880 | 📧 doyle9214@gmail.com | [LinkedIn](https://www.linkedin.com/in/mattdoyle92/) | [GitHub](https://github.com/pirateking92/pirateking92) | [Portfolio](https://mattdoyle.vercel.app/)
+**Data engineer at Palantir**, working forward-deployed on NHS / Foundry implementations — I turn messy, high-volume source data into trusted, well-modelled data products, with validation, testing and governance built in rather than bolted on.
 
-## About Me 🌟
+📍 London, UK  ·  [LinkedIn](https://www.linkedin.com/in/mattdoyle92/)  ·  [Portfolio](https://mattdoyle.vercel.app)
 
-Passionate Software Developer with a strong foundation in test-driven development, object-oriented programming, and full-stack development. I bring a unique blend of technical expertise and customer-centric skills from previous careers in education, tech retail, and recruitment. I am eager to leverage my problem-solving abilities and communication prowess to develop impactful software solutions.
+---
 
-## Learning Now / Learning Next 🧠
+## What I do
 
-### Currently learning:
-- Vim to enhance usability
-- PHP to work more seamlessly with a WordPress project
-- Improving fundamentals with TypeScript and Python
-- Integrating more use of databases in projects
+- **Data engineering** — design, build and operate batch ETL/ELT pipelines in **Python, SQL and Spark (PySpark)**, modelling diverse source systems from raw → standardised → consumption layers.
+- **Data quality & reliability** — field-by-field / ground-truth validation, dead-letter handling, incident response and root-cause analysis. I care a lot about nothing being silently dropped.
+- **Forward-deployed delivery** — primary technical contact across 10+ NHS trust implementations: requirements, on-site work, stakeholder management and end-to-end ownership.
+- **AI-assisted development** — a daily Claude Code user across build, debugging and delivery.
 
-### Wanting to next learn/improve:
-- My (really basic) Korean skills 🇰🇷
-- Mouseless navigation
-- Typing speed ⌨️
+Most of my day-to-day work (Palantir Foundry, NHS data) is proprietary, so the repos here are personal projects — mostly full-stack and backend builds where I pick up a new stack and ship something end-to-end.
 
-## Technical Skills 💻
+## Tech
 
-- **Languages**: TypeScript, Go, Python, Swift, SQL, JavaScript
-- **Frameworks**: SvelteKit, React.js, Gin, Next.js, Express
-- **Development**: Test Driven Development (TDD), Object-Oriented Programming (OOP), Pair Programming
-- **Methodologies**: Agile, Scrum, Kanban
-- **Tools**: Git, GitHub, Docker, SQL, CSS, Tailwind CSS
-- **Soft Skills**: Public Speaking, Presenting, Stakeholder Management
+**Core:** Python · SQL · PySpark · TypeScript
+**Also:** Go · React · Svelte / SvelteKit · Next.js · Express · Gin · Git · CI/CD
 
-## Projects 🛠️
+## Selected projects
 
-### Headless CMS Website - Portfolio website for Theatre Director
-- **Tech Stack**: Wordpress CMS | Frontend: TypeScript, Next.js/React
-- Utilises existing WordPress client, to migrate site data to bespoke frontend
-- Tailwind for styling, leveraging libraries such as Framer and Flowbite
-- Extending WordPress functionality by utilising ACFs (advanced custom fields)
+- **Cassandra** — full-stack app: Go/Gin REST backend + SvelteKit frontend, 83% test coverage *(picked up SvelteKit from scratch in a week)*.
+- **Marathons Parser** — full-stack web tool: Express / Next.js REST API + React frontend, tests on both tiers.
+- **Harmony** — 1st-place hackathon build: multilingual support (IT/DE/ES/FR) for a mental-health research app.
 
-### Cassandra - A Tarot Card Reading web app 🔮
-- **Tech Stack**: Backend: Go, Gin | Frontend: SvelteKit, CSS
-- Deals 3 random cards and gives a ChatGPT-leveraged reading
-- Achieved 83% test coverage
-- Learnt new frontend framework (SvelteKit) and implemented it in one week
+*See the pinned repos below for the code and each project's README.*
 
-### Marathons Parser - Web App for Parsing JSON to CSV 🏃
-- **Tech Stack**: TypeScript, React, Express, Next.js, Tailwind CSS
-- Parses JSON data, sorts results by racer rank or bib number, and exports to CSV
-- Designed for scalability with separated frontend and backend
-- Comprehensive test coverage for both frontend and backend
+## A bit more
 
-### Capybook - Social Media Web App 🦫
-- **Tech Stack**: GoLang, Gin Framework, React.js
-- Developed MVP using GoLang for backend and React.js for frontend
-- First experience working as a pure backend developer
-- Engaged in pair programming for cohesive teamwork
-
-## Experience 👨‍💼
-
-### Makers, London, UK
-**Junior Software Developer** | Jan 2024 – May 2024
-- Completed a 16-week intensive bootcamp, focusing on Python, GoLang, JavaScript, Git, and Swift
-- Practised test-driven development (TDD) and object-oriented programming
-- Enhanced pair programming skills through regular collaborative exercises
-- Worked in Agile scrum environment to improve, extend, and debug legacy code
-
-### Specialised Group, Tokyo, Japan
-**Consultant** | Sept 2022 – Oct 2023
-- Led daily client meetings and coordinated interactions with diverse candidates
-- Utilised strong communication, negotiation, and stakeholder management abilities
-- Managed multiple candidates and clients in various technical sectors
-
-## Achievements & Volunteering 🏆
-
-### Harmony Hackathon, London, UK
-**June 2024**
-- Placed first by implementing multilingual support (ITA, GER, SPA, FRA) for a research application, enhancing mental health questionnaire analysis
-
-### Dragon Hall Trust, London, UK
-- Coaching young people at a coding club in Covent Garden, introducing them to basic concepts in coding in a fun way
-
-## Teaching Experience 📚
-
-### Kings Education, Seoul, South Korea
-**Lead Teacher** | July 2020 – August 2022
-
-### English Corner Language School, Tokyo, Japan
-**Teacher** | Feb 2017 – June 2019
-
-### EPIK, Busan, South Korea
-**Guest English Teacher** | Sept 2015 – Feb 2017
-
-## Education 🎓
-
-### University of York
-MA Applied Linguistics for Language Teaching, Merit, 2019-2020
-
-### Brunel University
-BA English Literature, Film and Television, 2010-2013
-
-## Languages & Interests 🌍
-
-- **Languages**: Japanese (Conversational), Korean (Basic)
-- **Interests**: 
-  - Weightlifting 🏋️‍♂️
-  - Running (doing the Royal Parks Half Oct. 13th) 🏃‍♂️
-  - Basketball (76ers fan) 🏀
-  - Snowboarding 🏂
-  - Hiking 🥾
-  - Climbing 🧗‍♂️
-  - Avid Film Enthusiast (Bill & Ted is a favourite film) 🎬
-  - Music Lover (Bloc Party a classic favourite band, into Metal and many of its subgenres) 🎸
+Level 5 Data Engineer Apprenticeship (completing 2026) · MA Applied Linguistics, University of York · former teacher. Currently sharpening data structures & algorithms and system design.
